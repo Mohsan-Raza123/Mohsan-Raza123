@@ -1,18 +1,28 @@
-# Hi there, I'm Mohsin Raza 👋
+# Hi there, I'm Mohsan Raza 👋
 
+I'm a **Software Engineer**, **AI Enthusiast**, and **Game Developer** focused on creating innovative solutions. I have completed my **BSCS** and love tackling complex problems—from deepfake detection to immersive gaming experiences.
 
-I'm a passionate developer focused on creating innovative solutions with technology. I love to code, contribute to open-source projects, and collaborate with other developers. When I'm not coding, you can find me exploring new technologies, or working on my side projects.
+## 🏆 Key Achievements
+- 🥈 **2nd Place Winner** – Inter-Campus FYP Competition for **CertiFact** (Deepfake Detection System).
+- 🥉 **3rd Place Winner** – Semester Project Competition for **Blood Script: Ink's Revenge** (Game Dev).
 
 ## 🚀 Skills & Technologies
 
-- **Languages:** C#, JavaScript, Python, SQL, Java, C++, C
-- **Frameworks:** ASP.NET, PHP
-- **Tools:** Visual Studio, Git, Visual Studio Code, Netbeans
-- **Databases:** SQL Server, MySQL
+- **Languages:** Python, C#, C++, Java, JavaScript, SQL, C
+- **AI & Data:** TensorFlow, PyTorch, Scikit-Learn, Pandas, NumPy, CUDA, MPI
+- **Web & Backend:** Django, FastAPI, ASP.NET, PHP
+- **Game Dev:** Unity, C#
+- **Databases:** PostgreSQL, SQL Server, MySQL
+- **Tools:** Docker, Git, Postman, Visual Studio, VS Code
+
+## 💼 Work Experience
+
+- **AI Intern @ Machknow Soft:** Worked on AI/ML models, FastAPI, and PostgreSQL.
+- **Game Dev Intern @ Gainators:** Specialized in Unity development.
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohsan-Raza123&show_icons=true&theme=radical)
+![Mohsan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohsan-Raza123&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohsan-Raza123&layout=compact&theme=radical)
 
@@ -21,29 +31,11 @@ I'm a passionate developer focused on creating innovative solutions with technol
 - **Email:** mraza9780@gmail.com
 - **LinkedIn:** [Mohsin Raza](https://linkedin.com/in/mohsin-raza-85602b28a/)
 
-
----
-
-
-**Thank you for visiting!**
-
-
-
 ---
 
 ### ✨ Fun Fact
 
-_I love learning about AI and building creative projects that solve real-world problems._
-
----
-
-## 🛠️ Tools I Love
-
-- Visual Studio Code
-- GitHub Copilot
-- Postman
-- Figma
-- Docker
+_I love learning about AI and currently I am learning **Arabic**!_
 
 ---
 
