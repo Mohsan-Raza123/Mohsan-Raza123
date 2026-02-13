@@ -29,7 +29,7 @@ I'm a **Software Engineer**, **AI Enthusiast**, and **Game Developer** focused o
 ## 📫 How to reach me
 
 - **Email:** mraza9780@gmail.com
-- **LinkedIn:** [Mohsin Raza](https://linkedin.com/in/mohsin-raza-85602b28a/)
+- **LinkedIn:** [Mohsin Raza](www.linkedin.com/in/mohsin-raza-cs)
 
 ---
 
